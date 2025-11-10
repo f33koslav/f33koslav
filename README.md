@@ -6,6 +6,10 @@
 - [LinkedIn](https://www.linkedin.com/in/filip-%C4%8Dern%C3%BD-47298797/)
 - ORCID: https://orcid.org/0009-0001-5256-0670
 
+## 💼 Availability
+
+🔍 **Available for hire** - Open to fullstack development projects, contract work, and consulting opportunities.
+
 ## 🧳 Summary
 
 Full-stack developer with 10+ years of experience in TypeScript-based ecosystems. Specialized in building scalable microservices, streaming infrastructure, and modern SaaS backends. Experienced with both frontend and backend technologies across React, Vue, Node.js, and NestJS. Passionate about game development infrastructure and open source contributions. Love architecting systems from the ground up and documenting the journey along the way.
