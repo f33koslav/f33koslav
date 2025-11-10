@@ -12,7 +12,7 @@
 
 ## 🧳 Summary
 
-Full-stack developer with 10+ years of experience in TypeScript-based ecosystems. Specialized in building scalable microservices, streaming infrastructure, and modern SaaS backends. Experienced with both frontend and backend technologies across React, Vue, Node.js, and NestJS. Passionate about trying new things in development. Love architecting systems from the ground up and documenting the journey along the way.
+Full-stack developer with 10+ years of experience in TypeScript-based ecosystems. Specialized in building scalable microservices, streaming infrastructure, and modern SaaS backends. Experienced with both frontend and backend technologies across React, Vue, Node.js, Express.js and NestJS most recently. Passionate about trying new things in development. Love architecting systems from the ground up and documenting the journey along the way.
 
 ## 🛠 Tech Stack
 
