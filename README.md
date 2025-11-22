@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Filip Cerný
+# 👋 Hi, I'm Filip Cerny
 
 - **Fullstack Developer** (Node.js, TypeScript, Next.js, Nuxt.js, React, Vue)
 - Prague, Czech Republic | Working from home
