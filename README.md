@@ -12,7 +12,8 @@
 
 ## 📚 Summary
 
-Full-stack developer with 10+ years of experience in TypeScript-based ecosystems. Specialized in building scalable microservices, streaming infrastructure, and modern SaaS backends. Recently diving deep into **3D game development with Vulkan** - designing a custom C++ game engine with advanced graphics, physics simulation, and AI systems. Experienced with both frontend and backend technologies across React, Vue, Node.js, Express.js and NestJS. Passionate about trying new technologies and clean architecture. Love exploring systems design, graphics programming, and building tools from the ground up.
+Full-stack developer with 10+ years of experience in TypeScript-based ecosystems. Specialized in building scalable microservices, streaming infrastructure, and modern SaaS backends.
+ **Experienced** with both frontend and backend technologies across React, Vue, Node.js, Express.js and NestJS. Passionate about trying new technologies and clean architecture. Love exploring systems design, graphics programming, and building tools from the ground up. Recently diving deep into **3D game development with Vulkan** - designing a custom C++ game engine with advanced graphics, physics simulation, and AI systems.
 
 ## 🔧 Tech Stack
 
