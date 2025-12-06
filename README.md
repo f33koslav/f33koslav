@@ -8,7 +8,7 @@
 
 ## 👜 Availability
 
-🔴 **Available for hire** - I am currently employed, not looking into fullstack development, but we can make game development collaborations or open source together!
+🔴 **Unavailable for hire** - I am currently employed, not looking into fullstack development, but we can make game development collaborations or open source together!
 
 ## 📚 Summary
 
