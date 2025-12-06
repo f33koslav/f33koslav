@@ -34,7 +34,6 @@
   <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' />
   <img src='https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white' />
   <img src='https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white' />
-  <img src='https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white' />
   <img src='https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white' />
   <img src='https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white' />
   <img src='https://img.shields.io/badge/Conan-000000?style=for-the-badge&logo=c&logoColor=white' />
