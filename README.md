@@ -44,7 +44,7 @@ Full-stack developer with 10+ years of experience in TypeScript-based ecosystems
 
 | Company | Period | Position | Main Responsibilities & Projects |
 |---------|--------|----------|----------------------------------|
-| **STRV** | 12/2024-03/2025 | Backend Developer | Microservice architecture for streaming (Oktagon.tv), DVB-TV integration, cloud migration, infra overhaul |
+| **Tivio Studio** | 12/2024-03/2025 | Backend Developer | Microservice architecture for streaming, DVB-TV integration, cloud migration, infra overhaul |
 | **Česká televize** | 03/2023-11/2024 | Fullstack Developer | Node.js metadata aggregation app, React component refactoring, in-house design system, REST API development |
 | **TV Nova** | 05/2022-03/2023 | Frontend Developer | Vue.js apps for nova.cz, template management for voyo.cz and nova.cz, component library |
 | **PALAXO Development LLC** | 06/2020-04/2021 | Javascript Developer | Mobile app development with AngularJS/Ionic, migration to Angular, TypeScript adoption |
