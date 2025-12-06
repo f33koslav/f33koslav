@@ -8,7 +8,7 @@
 
 ## 👜 Availability
 
-🔴 **Available for hire** - Open to fullstack development projects, contract work, consulting opportunities, and game development collaborations.
+🔴 **Available for hire** - I am currently employed, not looking into fullstack development, but we can make game development collaborations or open source together!
 
 ## 📚 Summary
 
