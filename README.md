@@ -69,19 +69,7 @@
 
 - **[BlichStudioVulkanEngine](https://github.com/BlichStudio/bsc-monorepo)** - Custom C++ 3D game engine using Vulkan (MoltenVK), GLFW, Lua scripting, Python AI integration, Assimp asset loading, Bullet physics, ImGui interface, and OpenAL audio. Built with CMake, Ninja, and Conan 2 on macOS. A comprehensive exploration into graphics programming and game engine architecture.
   
-- **[Oktagon.tv Streaming Infrastructure](https://github.com/STRV)** - Microservice streaming backend with DVB-TV integration and cloud migration
-  
-- **[Česká televize Metadata System](https://github.com)** - Node.js metadata aggregation and React component refactoring for national broadcaster
-  
-- **nova.cz Vue.js Apps** - Large-scale Vue.js applications for major Czech media platform
-  
-- **Praguemusic festival.com Admin System** - Full-stack Vue.js + Node.js + AWS platform
-  
 - **[love2d-vscode-template](https://github.com/f33koslav/love2d-vscode-template)** - Game dev setup for Love2D in VSCode
-  
-- **[react-starter-template](https://github.com/f33koslav/react-starter-template)** - React starter with Sass/SCSS
-  
-- **[Web-dev-mini-projects](https://github.com/f33koslav/Web-dev-mini-projects)** - Collection of web-dev mini projects
 
 ## 🎓 Education
 
